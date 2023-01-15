@@ -1,0 +1,17 @@
+C:\Users\poste\Desktop\ป\Lap3\Lap3\bin\Debug\net6.0-windows\Lap3.exe
+C:\Users\poste\Desktop\ป\Lap3\Lap3\bin\Debug\net6.0-windows\Lap3.deps.json
+C:\Users\poste\Desktop\ป\Lap3\Lap3\bin\Debug\net6.0-windows\Lap3.runtimeconfig.json
+C:\Users\poste\Desktop\ป\Lap3\Lap3\bin\Debug\net6.0-windows\Lap3.dll
+C:\Users\poste\Desktop\ป\Lap3\Lap3\bin\Debug\net6.0-windows\Lap3.pdb
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.csproj.AssemblyReference.cache
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.Form1.resources
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.csproj.GenerateResource.cache
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.AssemblyInfoInputs.cache
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.AssemblyInfo.cs
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.csproj.CoreCompileInputs.cache
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.dll
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\refint\Lap3.dll
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.pdb
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\Lap3.genruntimeconfig.cache
+C:\Users\poste\Desktop\ป\Lap3\Lap3\obj\Debug\net6.0-windows\ref\Lap3.dll
